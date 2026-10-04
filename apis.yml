@@ -53,6 +53,7 @@ tags:
 - Software-as-a-Service
 - HRIS
 - Employee Scheduling
+- Scheduling
 tags_raw:
 - Company
 - Human Resources
@@ -61,6 +62,7 @@ tags_raw:
 - SaaS
 - HRIS
 - Employee Scheduling
+- Scheduling
 apis: []
 maintainers:
 - FN: Kin Lane
